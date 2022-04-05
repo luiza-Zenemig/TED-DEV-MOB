@@ -20,7 +20,7 @@ Link:
 [Breach - Valorant](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fold.runitback.gg%2Fwp-content%2Fuploads%2F2020%2F10%2FValorant-Breach.jpg&f=1&nofb=1)
 
 Tabela - Jogadores
-Nome | Habilidde | Jogo
+Nome | Habilidade | Jogo
 ---|---|---|
 Breach|Falha Tectônica|Valorant
 
